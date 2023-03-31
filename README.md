@@ -1,4 +1,4 @@
-![Alt text]([https://sample/url/name-of-gif-file.gif](https://tenor.com/vi/view/ganyu-genshin-impact-genshin-smile-gif-19867725))
+![Alt text](https://tenor.com/vi/view/ganyu-genshin-impact-genshin-smile-gif-19867725)
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Bao (SurgeousJP)</h1>
 <h3 align="center">An university student in University of Information Technology, major in Software Engineering, a passion coder</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
