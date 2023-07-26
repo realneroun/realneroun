@@ -1,5 +1,5 @@
 <!--![Alt text](name-of-gif-file.gif)  ![](ganyu-genshin-impact.gif) -->
-<img align="center" alt="Ganyu Genshin Impact First Waifu" src="https://drive.google.com/uc?id=1X5X8m83iwMi1mXCnKWb-mNk1N9EZ3eiW">
+![Alt Text](Ganyu.jpg)
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Bao (SurgeousJP)</h1>
 <h3 align="center">An university student in University of Information Technology, major in Software Engineering, a passion coder</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
