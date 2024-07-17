@@ -49,10 +49,10 @@
 </p>
 
 <div style="display: flex; flex-direction: row;  justify-content: space-between;">
-    <img style="display:inline-block; width:100%; height: 200px;" align="center"
+    <img style="flex: 1; width:50%; height:100%; object-fit:cover;"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
       alt="surgeousjp" />
-    <img style="display:inline-block; width:100%; height: 200px;" align="center"
+    <img style="flex: 1; width:50%; height:100%; object-fit:cover;"
       src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
 </div>
 
