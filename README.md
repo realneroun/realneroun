@@ -47,16 +47,10 @@
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
 </p>
-
-<div style="display: flex; flex-direction: row;  justify-content: space-between;">
-    <img style="flex: 1; width:50%; height:100%; object-fit:cover;"
+<img style="flex: 1; width:467px; height:195px; object-fit:cover;"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
       alt="surgeousjp" />
-    <img style="flex: 1; width:50%; height:100%; object-fit:cover;"
+<img style="flex: 1; width:467px; height:195px; object-fit:cover;"
       src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
-</div>
-
-<div style="display: flex; flex: 1">
-  <p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surgeousjp&"
-      alt="surgeousjp" /></p>
-</div>
+<img style="width:467px; height:195px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surgeousjp&"
+      alt="surgeousjp" />
