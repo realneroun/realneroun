@@ -62,13 +62,13 @@
 
 <div style="display: flex; align-items: center; vertical-align: middle; justify-content: space-between;">
   <div>
-    <img  style="height: 100%;"  align="center"
+    <img style="width: 100%; height: auto;" align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
     alt="surgeousjp" />
   </div>
 
   <div>
-    <img   style="height: 100%;"  align="center"
+    <img style="width: 100%; height: auto;" align="center"
     src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
   </div>
 </div>
