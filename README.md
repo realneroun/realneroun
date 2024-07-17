@@ -24,7 +24,6 @@
   <p style="width: 100%;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact" alt="surgeousjp" /></p>
 
 <p style="width: 100%;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" /></p>
-
 </div>
 
 <div style="display: flex; flex: 1">
