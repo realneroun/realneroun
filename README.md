@@ -61,13 +61,16 @@
   </a> </p>
 
 <div style="display: flex; align-items: center; vertical-align: middle; justify-content: space-between;">
-  <p style="width: 100%; align-items: center; vertical-align: middle;"><img align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
-      alt="surgeousjp" /></p>
+  <div>
+    <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
+    alt="surgeousjp" />
+  </div>
 
-  <p style="width: 100%;"><img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
-  </p>
+  <div>
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
+  </div>
 </div>
 
 <div style="display: flex; flex: 1">
