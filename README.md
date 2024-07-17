@@ -60,10 +60,11 @@
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a> </p>
 
-<div style="display: flex; align-items: center; vertical-align: middle; justify-content: space-between;">
+<div style="display: flex; flex-direction: row;  justify-content: space-between;">
     <img style="display:inline-block; width:40%; height: 200px;" align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
     alt="surgeousjp" />
+
     <img style="display:inline-block; width:40%; height: 200px;" align="center"
     src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
 </div>
