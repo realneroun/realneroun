@@ -48,11 +48,11 @@
   </a>
 </p>
 <p>
-  <img style="flex: 1; width:467px; height:195px; object-fit:cover;"
+  <img style="height:195px; object-fit:cover;"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
       alt="surgeousjp" />
-<img style="flex: 1; width:467px; height:195px; object-fit:cover;"
+<img style="height:195px; object-fit:cover;"
       src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
 </p>
-<img style="width:467px; height:195px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surgeousjp&"
+<img style="height:195px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surgeousjp&"
       alt="surgeousjp" />
