@@ -61,10 +61,11 @@
   </a> </p>
 
 <div style="display: flex; flex-direction: row;  justify-content: space-between;">
-    <img style="display:inline-block; width:40%; height: 200px;" align="center"
+    <img style="display:inline-block; width:auto; height: 200px;" align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=surgeousjp&show_icons=true&locale=en&layout=compact"
     alt="surgeousjp" />
-    <img style="display:inline-block; width:40%; height: 200px;" align="center"
+
+    <img style="display:inline-block; width:auto; height: 200px;" align="center"
     src="https://github-readme-stats.vercel.app/api?username=surgeousjp&show_icons=true&locale=en" alt="surgeousjp" />
 </div>
 
