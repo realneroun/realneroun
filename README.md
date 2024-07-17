@@ -1,5 +1,5 @@
 ![Alt Text](1344548.png)
-<h1 align="center">Hi 👋, I'm Nguyen Tuan Bao (SurgeousJP)</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Tuan Bao (Surgeous)</h1>
 <h3 align="center">An upcoming fourth year undergraduate in the University of Information Technology (UIT), currently
   majoring in Software Engineering, a passion coder</h3>
 
