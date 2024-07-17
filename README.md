@@ -1,11 +1,8 @@
-<!--![Alt text](name-of-gif-file.gif)  ![](ganyu-genshin-impact.gif) -->
-<!--![Alt Text](ganyu.jpg)  >-->
 ![Alt Text](1344548.png)
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Bao (SurgeousJP)</h1>
 <h3 align="center">An upcoming fourth year undergraduate in the University of Information Technology (UIT), currently
   majoring in Software Engineering, a passion coder</h3>
-<img align="right" alt="Coding" width="400"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surgeousjp&label=Profile%20views&color=0e75b6&style=flat"
     alt="surgeousjp" /> </p>
 
