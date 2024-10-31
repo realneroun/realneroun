@@ -1,6 +1,6 @@
 ![Alt Text](1344548.png)
 <h1 align="center">Hi 👋, I'm Do Trong Hau (realneroun)</h1>
-<h3 align="center">An upcoming fourth year undergraduate in the FPT Polytechnic College (FPOLY), currently
+<h3 align="center">An upcoming third year undergraduate in the FPT Polytechnic College (FPOLY), currently
   majoring in Information Technology, a passion coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realneroun&label=Profile%20views&color=0e75b6&style=flat"
